@@ -1,7 +1,7 @@
 title: Hello Github Pages
 author: Tim Griffith
 email: tim.griffith.dev@gmail.com
-theme: jekyll-theme-minimal
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Just learning the basics...
 

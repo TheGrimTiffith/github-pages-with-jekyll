@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hello, Jekyll blog tutorial"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is the [Github Pages Tutorial](https://lab.github.com/githubtraining/github-pages?overlay=register-box-overlay)
